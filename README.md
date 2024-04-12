@@ -1,2 +1,2 @@
 # PyTest
-Python testing
+Python testing for GPT
